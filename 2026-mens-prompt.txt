@@ -1,0 +1,146 @@
+You are conducting a deep research and synthesis task to produce a high-confidence NCAA Men’s Basketball Tournament bracket.
+
+## Objective
+
+Build a complete March Madness bracket by:
+
+1. Aggregating insights from top bracketology experts, analytics models, and reputable sports journalism
+2. Reconciling conflicts using a rational weighting methodology
+3. Producing a finalized bracket with a winner selected for EVERY game (Round of 64 through National Championship)
+
+---
+
+## Research Inputs (MANDATORY SOURCES)
+
+Use search queries based on the following sources:
+
+* "Joe Lunardi bracketology site:espn.com"
+* "Jerry Palm NCAA bracket CBS Sports"
+* "KenPom rankings analysis March Madness"
+* "Bart Torvik tournament projections"
+* "Haslametrics upset picks NCAA tournament"
+* "TeamRankings bracket predictions NCAA"
+* "The Athletic March Madness predictions"
+* "Bracket Matrix consensus bracket 2026"
+* "NCAA NET rankings explanation selection committee"
+
+You must prioritize:
+
+* Consensus bracket projections (Bracket Matrix)
+* Efficiency metrics (KenPom, Torvik, Haslametrics)
+* Committee-aligned signals (NET rankings)
+* Expert judgment (ESPN, CBS, The Athletic)
+
+---
+
+## Methodology Requirements
+
+### Step 1: Establish Baseline
+
+* Use consensus bracket (Bracket Matrix) to define seeds and matchups
+
+### Step 2: Apply Predictive Metrics
+
+Evaluate each matchup using:
+
+* Offensive/Defensive efficiency (KenPom)
+* Adjusted tempo and matchup fit
+* Recent form (Haslametrics momentum)
+* Win probability (TeamRankings or similar models)
+
+### Step 3: Identify Upsets
+
+* Select a SMALL number of strategic upsets per round
+* Favor:
+
+  * 10–7, 11–6, 12–5 matchups
+  * Teams with strong efficiency but under-seeded
+* Avoid excessive randomness
+
+### Step 4: Weighting Logic (IMPORTANT)
+
+When sources conflict, prioritize in this order:
+
+1. Aggregated analytics models (KenPom, Torvik)
+2. Consensus projections (Bracket Matrix)
+3. Expert analysts (Lunardi, Palm, Athletic writers)
+4. Narrative factors (injuries, coaching, experience)
+
+---
+
+## Output Requirements
+
+### 1. Full Bracket Picks (REQUIRED)
+
+List winners for EVERY game in order:
+
+#### Round of 64
+
+* Game 1: Team A vs Team B → Winner: ___
+* Game 2: ...
+  (continue through all 32 games)
+
+#### Round of 32
+
+* List all 16 winners
+
+#### Sweet 16
+
+* List all 8 winners
+
+#### Elite 8
+
+* List all 4 winners
+
+#### Final Four
+
+* List both winners
+
+#### National Championship
+
+* Final matchup: ___ vs ___
+* Champion: ___
+
+---
+
+### 2. Final Four Justification
+
+Provide a concise explanation (2–4 sentences per team) explaining WHY each Final Four team advanced.
+
+---
+
+### 3. Champion Justification
+
+Provide a clear, evidence-based explanation including:
+
+* Efficiency metrics
+* Matchup advantages
+* Historical trends (if relevant)
+
+---
+
+### 4. Upset Summary
+
+List all upsets (by seed) and briefly justify each.
+
+---
+
+## Constraints
+
+* Do NOT leave any game undecided
+* Do NOT rely on a single source
+* Do NOT overfit to chalk (perfect seed advancement is invalid)
+* Do NOT produce vague reasoning—be specific and analytical
+
+---
+
+## Tone
+
+* Analytical, decisive, and evidence-based
+* No hedging language (you must commit to winners)
+
+---
+
+## Goal
+
+Produce a bracket that is optimized for outperforming the average pool by balancing probabilistic accuracy with selective, high-value contrarian picks.
