@@ -36,7 +36,7 @@ This bracket was constructed using a multi-source analytical framework:
 
 | Game | Matchup | Winner | Rationale |
 |------|---------|--------|-----------|
-| E1 | (1) Duke (32-2) vs (16) Siena (23-11) | **Duke** | Duke's 32-2 record is tied for the best in the field. No 1 seed has lost to a 16 seed since UMBC/Virginia (2018). Duke's offensive and defensive efficiency margins are elite. |
+| E1 | (1) Duke (32-2) vs (16) Siena (23-11) | **Duke** | Duke's 32-2 record is tied for the best in the field. Historically, 1 seeds win this matchup over 99% of the time. Duke's offensive and defensive efficiency margins are elite. |
 | E2 | (8) Ohio St. (21-12) vs (9) TCU (22-11) | **TCU** | The 8/9 matchup is historically a coin flip (9 seeds win ~48%). TCU's 22-11 record slightly edges Ohio State's 21-12. TCU's balanced offense and defensive versatility give them the edge in a toss-up. |
 | E3 | (5) St. John's (28-6) vs (12) Northern Iowa (23-12) | **St. John's** | St. John's 28-6 record is among the best in the tournament. Their adjusted offensive efficiency is elite, and they avoid the 12-over-5 upset here because of their clear talent advantage and Big East battle-testing. Northern Iowa's 12 losses indicate inconsistency. |
 | E4 | (4) Kansas (23-10) vs (13) Cal Baptist (25-8) | **Kansas** | Kansas's tournament pedigree and coaching under Bill Self provide a significant edge. Cal Baptist's 25-8 record is strong but compiled against weaker WAC competition. Kansas's defensive efficiency and experience in March close out this matchup. |
@@ -141,7 +141,7 @@ This bracket was constructed using a multi-source analytical framework:
 | Game | Matchup | Winner | Rationale |
 |------|---------|--------|-----------|
 | S13 | (1) Florida vs (4) Nebraska | **Florida** | Florida's offensive efficiency and guard play overwhelm Nebraska. As the 1 seed, Florida's depth and talent advantage are decisive in a Sweet 16 environment. |
-| S14 | (3) Illinois vs (2) Houston | **Houston** | Houston's defensive efficiency smothers Illinois's offense. Houston holds Illinois to well below their season scoring average. Houston's rebounding dominance and free-throw generation create the margin. Kelvin Sampson's tournament track record (Final Four in 2024) reinforces the pick. |
+| S14 | (3) Illinois vs (2) Houston | **Houston** | Houston's defensive efficiency smothers Illinois's offense. Houston holds Illinois to well below their season scoring average. Houston's rebounding dominance and free-throw generation create the margin. Kelvin Sampson's proven tournament track record and deep-run experience reinforce the pick. |
 
 ### Elite Eight
 
@@ -161,7 +161,7 @@ This bracket was constructed using a multi-source analytical framework:
 |------|---------|--------|-----------|
 | M1 | (1) Michigan (31-3) vs (16) Howard (24-10) | **Michigan** | Michigan's 31-3 record is the second-best in the field. Howard's First Four win (86-83 over UMBC) depleted their energy. Michigan's efficiency margin and talent gap are overwhelming. |
 | M2 | (8) Georgia (22-10) vs (9) Saint Louis (28-5) | **Saint Louis** | Saint Louis's 28-5 record is dramatically superior to Georgia's 22-10. The Billikens' offensive efficiency and A-10 conference dominance project strongly to tournament play. In 8/9 matchups, the team with the better analytical profile wins — Saint Louis is that team. |
-| M3 | (5) Texas Tech (22-10) vs (12) Akron (29-5) | **Texas Tech** | Texas Tech's Big 12 competition and defensive identity under their coaching staff outweigh Akron's MAC-compiled 29-5 record. Texas Tech's adjusted defensive efficiency and tournament experience (2019 championship game) carry them. Akron's record is impressive but schedule-inflated. |
+| M3 | (5) Texas Tech (22-10) vs (12) Akron (29-5) | **Texas Tech** | Texas Tech's Big 12 competition and defensive identity under their coaching staff outweigh Akron's MAC-compiled 29-5 record. Texas Tech's adjusted defensive efficiency and program-level tournament pedigree carry them. Akron's record is impressive but schedule-inflated. |
 | M4 | (4) Alabama (23-9) vs (13) Hofstra (24-10) | **Alabama** | Alabama's SEC-tested roster and offensive firepower dwarf Hofstra's CAA competition. Alabama's three-point shooting volume and transition scoring overwhelm Hofstra's defensive limitations. |
 | M5 | (6) Tennessee (22-11) vs (11) Miami (Ohio) (32-1) | **Miami (Ohio)** | **UPSET.** Miami (Ohio)'s 32-1 record is the best in the entire tournament field — better than both Duke and Arizona at 32-2. Their single loss makes them the most under-seeded team in the bracket. Tennessee's 22-11 record pales in comparison. Miami Ohio's dominant MAC season and First Four blowout of SMU (79-55) demonstrate they are far better than an 11 seed. Their offensive efficiency and defensive consistency project a clear upset. |
 | M6 | (3) Virginia (29-5) vs (14) Wright St. (23-11) | **Virginia** | Virginia's 29-5 record and signature packline defense make them a formidable 3 seed. Wright State's 11 losses and Horizon League competition level cannot support an upset against this caliber of defense. Virginia controls tempo and forces half-court execution. |
@@ -229,7 +229,7 @@ This bracket was constructed using a multi-source analytical framework:
 ## Final Four Justification
 
 ### (1) Duke — East Region Champion
-Duke's 32-2 record represents one of the program's all-time great seasons. Their adjusted offensive efficiency (top-5 nationally) and adjusted defensive efficiency (top-3 nationally) create an efficiency margin that only Arizona can match. Their guard depth allows them to control pace and create mismatches. Duke's coaching lineage and tournament pedigree — 6 national championships — translate to peak performance in high-pressure March environments. They navigated UConn (2 seed) in the Elite Eight, proving they can beat the very best.
+Duke's 32-2 record represents one of the program's all-time great seasons. Their adjusted offensive efficiency (top-5 nationally) and adjusted defensive efficiency (top-3 nationally) create an efficiency margin that only Arizona can match. Their guard depth allows them to control pace and create mismatches. Duke's coaching lineage and tournament pedigree — among the most decorated programs in NCAA history — translate to peak performance in high-pressure March environments. They navigated UConn (2 seed) in the Elite Eight, proving they can beat the very best.
 
 ### (1) Arizona — West Region Champion
 Arizona's 32-2 record mirrors Duke's dominance. Under Tommy Lloyd, Arizona plays an up-tempo, efficient offense that creates transition opportunities and open three-point looks. Their defensive versatility and frontcourt depth powered them through a Gonzaga (30-3) matchup in the Elite Eight. Arizona's adjusted offensive efficiency ranks top-3 nationally, and their ability to control tempo on both ends makes them a legitimate championship contender.
@@ -256,7 +256,7 @@ Michigan's 31-3 record is the second-best in the field. Their balanced offensive
 
 ### Historical Trends
 - Teams with 30+ wins and fewer than 3 losses win the national championship at an elevated rate
-- Duke's program has won 6 national championships, more than any school except UCLA's 11 — tournament experience matters at the coaching and program level
+- Duke's program is among the most decorated in NCAA history with multiple national championships — tournament experience matters at the coaching and program level
 - The 1 overall seed (or equivalent) wins the championship approximately 25% of the time, far exceeding any other single seed line
 
 ### Path to the Title
